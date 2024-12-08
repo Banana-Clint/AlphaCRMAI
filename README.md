@@ -44,7 +44,7 @@ To start the development server, run the following command:
     ```
 ## API Endpoints
 
-**Root URL**: `API_URL/Api`
+**Root URL**: `API_URL:PORT_NUMBER/Api`
 
 ### API Routes
 
