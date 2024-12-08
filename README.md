@@ -51,7 +51,7 @@ To start the development server, run the following command:
 - `root/Auth/Auth` (GET) - Redirects to the Google OAuth2 Callback Endpoint 
 
 #### Clients
-- `root/Client/Clients` (GET) - Returns an empty array: `[]`
+- `root/Client/Clients` (GET) - Returns an array: `[]`
 - `root/Client/ClientMetaData` (GET) - Returns:
     ```json
     {
@@ -64,8 +64,8 @@ To start the development server, run the following command:
     ```
 
 #### Emails
-- `root/EMail/GetInbox` (GET) - Returns an empty array: `[]`
-- `root/EMail/SendEmail` (POST) - Returns an empty object: `{}`
+- `root/EMail/GetInbox` (GET) - Returns an array: `[]`
+- `root/EMail/SendEmail` (POST) - Returns an object: `{}`
 - `root/EMail/GenerateEmail` (POST) - Returns:
     ```json
     {
