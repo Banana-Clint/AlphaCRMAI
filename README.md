@@ -6,7 +6,7 @@ To install the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Banana-Clint/alphaCRMApi
+    git clone https://github.com/Banana-Clint/alphacrmAPI
     ```
 2. **Navigate to the project directory**.
 
