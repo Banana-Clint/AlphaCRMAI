@@ -34,6 +34,7 @@ To install the project, follow these steps:
     DB_PASSWORD=
     DB_NAME=u662656180_test
     ```
+4. **Create a `MySQL` Database** with the name=DB_NAME:    
 
 ## Running the Project
 
